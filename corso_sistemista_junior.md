@@ -15,15 +15,15 @@ footer: Corso Sistemista Junior - Progetto Itaca - Jacopo Pica
 
 ## Componenti hardware fondamentali: 
 
-### Motherboard
+#### Motherboard
 
 - Scheda principale del computer
 - Collega e mette in comunicazione tutti i componenti
 - Determina compatibilità hardware
-
+<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/motherboard.jpg" width="300"> 
 ---
 
-# Componenti hardware fondamentali: RAM
+#### RAM
 
 - Memoria volatile di sistema
 - Usata dai programmi in esecuzione
@@ -31,11 +31,15 @@ footer: Corso Sistemista Junior - Progetto Itaca - Jacopo Pica
 
 ---
 
-# Componenti hardware fondamentali: CPU
+#### CPU
 
 - Unità di elaborazione centrale
 - Esegue istruzioni e calcoli
 - Core e thread per il parallelismo
+
+---
+
+
 
 ---
 
