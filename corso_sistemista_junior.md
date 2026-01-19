@@ -20,7 +20,8 @@ footer: Corso Sistemista Junior - Progetto Itaca - Jacopo Pica
 - Scheda principale del computer
 - Collega e mette in comunicazione tutti i componenti
 - Determina compatibilità hardware
-<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/motherboard.jpg" width="300"> 
+<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/motherboard.jpg" width="300">
+
 ---
 
 #### RAM
@@ -39,15 +40,15 @@ footer: Corso Sistemista Junior - Progetto Itaca - Jacopo Pica
 
 ---
 
-
-
----
-
 # Componenti hardware fondamentali: Hard Disk
 
 - Memoria di archiviazione dati
 - HDD meccanico, SSD, M.2
 - Differenze di velocità e tecnologia
+
+---
+
+<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/HDD-SSD.jpg" width="1000">
 
 ---
 
