@@ -20,10 +20,12 @@ footer: Corso Sistemista Junior - Progetto Itaca - Jacopo Pica
 - Scheda principale del computer
 - Collega e mette in comunicazione tutti i componenti
 - Determina compatibilità hardware
-<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/motherboard.jpg" width="300">
 
 ---
 
+<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/motherboard.jpg" width="600">
+
+---
 #### RAM
 
 - Memoria volatile di sistema
@@ -49,6 +51,10 @@ footer: Corso Sistemista Junior - Progetto Itaca - Jacopo Pica
 ---
 
 <img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/HDD-SSD.jpg" width="1000">
+
+---
+
+<img src="https://raw.githubusercontent.com/jpo85/corso_sis_junior/main/images/sata-nvme-m2.jpg" width="1000">
 
 ---
 
